@@ -3,6 +3,10 @@
 ## Overview
 This folder contains code for using `jetson-inference`'s `posenet` on Jetson Nano. It includes game implementations that utilize `posenet` for hand recognition and control.
 
+
+**Brick Pong Demo:** https://drive.google.com/file/d/15immDvVE9rzHjOSAga4jwyM3pBoCWAVq/view?usp=sharing 
+**Snake Demo:** https://drive.google.com/file/d/13E9lRFCfXW6GLsjpQeqEjfcrZtrPX8RK/view?usp=sharing 
+
 ## Folder Structure
 - **combined**: Games using `posenet` to control elements directly with detected hand keypoints.
 - **listeners**: Games listening to a named pipe for hand coordinates provided by modified `posenet` versions.
