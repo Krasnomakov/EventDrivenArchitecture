@@ -5,9 +5,13 @@ This repository contains prototypes and components of an AI event-driven archite
 
 ## Folder Structure
 
-- **C**: Various animations, movement detection, and pose/hand recognition on Jetson Nano. Includes snake and brick pong games implemented in C/C++.
+1. **C**: Various animations, movement detection, and pose/hand recognition on Jetson Nano. Includes snake and brick pong games implemented in C/C++.
+- Demo Event-Driven Architecture: https://drive.google.com/file/d/1IVOBHTk2JU5LjdZWM55VMYE9VPgmm1oh/view?usp=sharing
+- Brick Pong Demo: https://drive.google.com/file/d/15immDvVE9rzHjOSAga4jwyM3pBoCWAVq/view?usp=sharing
+- Snake Demo: https://drive.google.com/file/d/13E9lRFCfXW6GLsjpQeqEjfcrZtrPX8RK/view?usp=sharing
   
 - **Ellie_connected**: MobileNet for user recognition, Mediapipe for BrickPong hand controller, autolaunch when user is detected.
+  
   
 - **Ellie_connected_v2**: More solid version with resting animation and movement detection with openCV, mode selection with hand gesture recognition and brick pong with hand controller, aut relaunch when no movement.
   
