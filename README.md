@@ -10,16 +10,16 @@ This repository contains prototypes and components of an AI event-driven archite
 - Brick Pong Demo: https://drive.google.com/file/d/15immDvVE9rzHjOSAga4jwyM3pBoCWAVq/view?usp=sharing
 - Snake Demo: https://drive.google.com/file/d/13E9lRFCfXW6GLsjpQeqEjfcrZtrPX8RK/view?usp=sharing
   
-- **Ellie_connected**: MobileNet for user recognition, Mediapipe for BrickPong hand controller, autolaunch when user is detected.
+2. **Ellie_connected**: MobileNet for user recognition, Mediapipe for BrickPong hand controller, autolaunch when user is detected.
   
   
-- **Ellie_connected_v2**: More solid version with resting animation and movement detection with openCV, mode selection with hand gesture recognition and brick pong with hand controller, aut relaunch when no movement.
+3. **Ellie_connected_v2**: More solid version with resting animation and movement detection with openCV, mode selection with hand gesture recognition and brick pong with hand controller, aut relaunch when no movement.
   
-- **flaskServerWith3DEffects**: YOLOv9 object detection integrated to create video effects and animations.
+4. **flaskServerWith3DEffects**: YOLOv9 object detection integrated to create video effects and animations.
   
-- **ollamaToPixelatedLetters**: Python scripts for sending requests to the Ollama server and projecting responses in a pixelated font.
+5. **ollamaToPixelatedLetters**: Python scripts for sending requests to the Ollama server and projecting responses in a pixelated font.
   
-- **soundAndPersonRecognition**: Scripts for detecting sound levels and recognizing persons using a simple OpenCV model.
+6. **soundAndPersonRecognition**: Scripts for detecting sound levels and recognizing persons using a simple OpenCV model.
 
 ## Technologies Used
 - **Python**
