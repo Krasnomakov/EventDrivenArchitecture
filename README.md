@@ -36,6 +36,7 @@ This repository contains prototypes and components of an AI event-driven archite
 - **PyGame**
 - **NumPy**
 - **Matplotlib**
+- *whisper**
 - **Jetson Nano**
 
 ## License
