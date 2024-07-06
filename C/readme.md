@@ -12,5 +12,7 @@ This folder contains various C/C++ programs developed for the Jetson Nano to con
 
 ## Requirements
 - Jetson Nano
+- Ubuntu 18.04
+- SDL2
 - OpenCV
 - Additional libraries as specified in each subfolder's README or source code.
