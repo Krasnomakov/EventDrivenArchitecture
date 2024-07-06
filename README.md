@@ -1,7 +1,7 @@
 # EventDrivenArchitecture
 
 ## Overview
-This repository contains prototypes and components of an AI event-driven architecture for controlling 8-bit LED screen. The project includes several modes such as animations, drawing, games, and interaction with large language models (LLMs). 
+This repository contains prototypes and components of an AI event-driven architecture for controlling 8-bit LED screen simulation. The project includes several modes such as animations, drawing, games, and interaction with large language models (LLMs). 
 
 ## Folder Structure
 
