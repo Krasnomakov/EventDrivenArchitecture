@@ -4,7 +4,7 @@ An interactive art & gaming project using event-driven architecture to control a
 
 ## 🚀 Overview
 
-This repository contains prototypes and components of an AI event-driven architecture for controlling an 8-bit LED screen simulation. The project includes several modes such as animations, drawing, games, and interaction with large language models (LLMs).
+This repository contains prototypes and components of an AI event-driven architecture for controlling an 8-bit LED screen simulation. The project includes several modes such as animations, drawing, games, and interaction with large language models (LLM).
 
 ## ✨ Features
 
